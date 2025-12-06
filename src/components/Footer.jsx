@@ -35,8 +35,8 @@ const Footer = () => {
                     <div>
                         <h4 className="text-lg font-semibold mb-4">Contact</h4>
                         <p className="text-gray-400 text-sm">
-                            Email: contact@moonbind.com<br />
-                            Address: 123 Moon Street, Tech City
+                            Email: admin@moonbind.com<br />
+                            Address:  5830 E 2ND ST, STE 7000 #30865CASPER, WY 82609
                         </p>
                     </div>
                 </div>
